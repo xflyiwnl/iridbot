@@ -1,0 +1,4 @@
+name: iridbot
+version: '${project.version}'
+main: me.xflyiwnl.iridbot.Loader
+api-version: '1.16'
